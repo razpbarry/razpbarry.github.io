@@ -105,3 +105,7 @@ body[data-contrast="less"] #bionReadSwitch:checked + label {
         backdrop-filter: unset;
     }
 }
+.logo img {
+  height: 48px;
+  width: auto;
+}

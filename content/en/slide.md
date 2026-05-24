@@ -1,14 +1,12 @@
 ---
 type: 'slide'
-title: 'This is slide'
+title: 'Physics & Beyond'
 cover: 'https://raw.githubusercontent.com/foxihd/hugo-et-hd/master/static/svg/flowlines/28.svg'
 weight: 1
 params:
     headless: true
-    target: 'https://github.com/foxihd/hugo-brewm'
 ---
 
-This demonstrates an example of three slide item. The navigation will change when there are three or more slides.
+Exploring the universe through axions, gravitational waves, and stellar dynamics.
 
-This is slide layout with cover image in frontmatter.
-For a minimalist home page without a slide and flowlines, see the [Indonesian homepage](https://foxihd.github.io/hugo-brewm/id/).
+Welcome to my personal corner of the internet — research, hobbies, and everything in between.

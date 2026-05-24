@@ -1,0 +1,402 @@
+
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/author/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="id" href="http://localhost:1313/id/author/" />
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/author/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="id" href="http://localhost:1313/id/categories/" />
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/categories/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/en/post/tufte-features/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/post/tufte-features/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/categories/latex/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/categories/authoring/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/tags/authoring/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/en/post/authoring-fullscreen-content/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/post/authoring-fullscreen-content/" /><xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/en/post/authoring-cover-images-and-audio-article/" /><xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/post/authoring-cover-images-and-audio-article/" />
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/en/post/authoring-fullscreen-content/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/post/authoring-fullscreen-content/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/en/post/authoring-fullscreen-content/" /><xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/en/post/authoring-cover-images-and-audio-article/" /><xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/post/authoring-cover-images-and-audio-article/" />
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/post/authoring-fullscreen-content/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/content/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/tags/map/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/tags/media/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="id" href="http://localhost:1313/id/tags/" />
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/tags/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/en/fullscreen-example/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/fullscreen-example/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/en/post/authoring-custom-taxonomy/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/post/authoring-custom-taxonomy/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/tags/taxonomy/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/tags/alt/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/tags/audio/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/en/post/authoring-cover-images-and-audio-article/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/en/post/authoring-fullscreen-content/" /><xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/post/authoring-fullscreen-content/" /><xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/post/authoring-cover-images-and-audio-article/" />
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/en/post/authoring-cover-images-and-audio-article/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/post/authoring-cover-images-and-audio-article/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/en/post/authoring-fullscreen-content/" /><xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/post/authoring-fullscreen-content/" /><xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/en/post/authoring-cover-images-and-audio-article/" />
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/post/authoring-cover-images-and-audio-article/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/cover/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/tags/images/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/en/post/authoring-terms-entry/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/post/authoring-terms-entry/" />
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/en/post/authoring-terms-entry/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/post/authoring-terms-entry/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/en/post/authoring-terms-entry/" />
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/post/authoring-terms-entry/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/en/post/authoring-redaction-history/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/post/authoring-redaction-history/" />
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/en/post/authoring-redaction-history/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/post/authoring-redaction-history/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/en/post/authoring-redaction-history/" />
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/post/authoring-redaction-history/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/history/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/tags/redaction/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/tags/terms/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/tags/accent/</loc>
+    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/tags/color/</loc>
+    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/categories/configuration/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/tags/configuration/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/en/post/configure-discussion/</loc>
+    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/post/configure-discussion/" />
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/en/post/configure-discussion/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/post/configure-discussion/</loc>
+    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/en/post/configure-discussion/" />
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/post/configure-discussion/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/en/post/configure-slides/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/post/configure-slides/" />
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/en/post/configure-slides/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/post/configure-slides/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/en/post/configure-slides/" />
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/post/configure-slides/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/en/post/configure-logo-and-accent-color/</loc>
+    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/post/configure-logo-and-accent-color/" />
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/en/post/configure-logo-and-accent-color/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/post/configure-logo-and-accent-color/</loc>
+    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/en/post/configure-logo-and-accent-color/" />
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/post/configure-logo-and-accent-color/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/en/post/configure-main-footer/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/post/configure-main-footer/" />
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/en/post/configure-main-footer/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/post/configure-main-footer/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/en/post/configure-main-footer/" />
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/post/configure-main-footer/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/en/post/configure-menu/</loc>
+    <lastmod>2025-02-04T00:00:00+00:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/post/configure-menu/" />
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/en/post/configure-menu/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/post/configure-menu/</loc>
+    <lastmod>2025-02-04T00:00:00+00:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/en/post/configure-menu/" />
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/post/configure-menu/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/en/post/configure-pagefind/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/post/configure-pagefind/" />
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/en/post/configure-pagefind/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/post/configure-pagefind/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/en/post/configure-pagefind/" />
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/post/configure-pagefind/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/discussion/</loc>
+    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/tags/footer/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/categories/homepage/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/tags/logo/</loc>
+    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/tags/markdown/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/en/post/markdown-test/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/post/markdown-test/" />
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/en/post/markdown-test/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/post/markdown-test/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/en/post/markdown-test/" />
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/post/markdown-test/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/menu/</loc>
+    <lastmod>2025-02-04T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/tags/pagefind/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/tags/slide/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="id" href="http://localhost:1313/id/" />
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/en/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="id" href="http://localhost:1313/id/en/" />
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/en/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/author/a.n.-other/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/en/author/a.n.-other/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/about/</loc>
+    
+    </url>
+  <url>
+    <loc>http://localhost:1313/en/about/</loc>
+    
+    </url>
+  <url>
+    <loc>http://localhost:1313/author/author-name/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/en/author/author-name/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/en/stage/budding/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/stage/budding/" /><xhtml:link rel="alternate" hreflang="id" href="http://localhost:1313/id/en/stage/budding/" /><xhtml:link rel="alternate" hreflang="id" href="http://localhost:1313/id/stage/budding/" />
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/en/stage/budding/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/stage/budding/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/en/stage/budding/" /><xhtml:link rel="alternate" hreflang="id" href="http://localhost:1313/id/en/stage/budding/" /><xhtml:link rel="alternate" hreflang="id" href="http://localhost:1313/id/stage/budding/" />
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/stage/budding/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/en/stage/evergreen/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/stage/evergreen/" /><xhtml:link rel="alternate" hreflang="id" href="http://localhost:1313/id/en/stage/evergreen/" /><xhtml:link rel="alternate" hreflang="id" href="http://localhost:1313/id/stage/evergreen/" />
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/en/stage/evergreen/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/stage/evergreen/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/en/stage/evergreen/" /><xhtml:link rel="alternate" hreflang="id" href="http://localhost:1313/id/en/stage/evergreen/" /><xhtml:link rel="alternate" hreflang="id" href="http://localhost:1313/id/stage/evergreen/" />
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/stage/evergreen/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/en/post/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    <changefreq>always</changefreq>
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/post/" />
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/en/post/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    <changefreq>always</changefreq>
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/en/post/" />
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/post/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/en/publications/</loc>
+    
+    </url>
+  <url>
+    <loc>http://localhost:1313/publications/</loc>
+    
+    </url>
+  <url>
+    <loc>http://localhost:1313/en/research/</loc>
+    
+    </url>
+  <url>
+    <loc>http://localhost:1313/research/</loc>
+    
+    </url>
+  <url>
+    <loc>http://localhost:1313/en/stage/seedling/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/stage/seedling/" /><xhtml:link rel="alternate" hreflang="id" href="http://localhost:1313/id/en/stage/seedling/" /><xhtml:link rel="alternate" hreflang="id" href="http://localhost:1313/id/stage/seedling/" />
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/en/stage/seedling/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/stage/seedling/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/en/stage/seedling/" /><xhtml:link rel="alternate" hreflang="id" href="http://localhost:1313/id/en/stage/seedling/" /><xhtml:link rel="alternate" hreflang="id" href="http://localhost:1313/id/stage/seedling/" />
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/stage/seedling/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/series/</loc>
+    
+    <xhtml:link rel="alternate" hreflang="id" href="http://localhost:1313/id/series/" />
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/series/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/en/stage/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="id" href="http://localhost:1313/id/en/stage/" /><xhtml:link rel="alternate" hreflang="id" href="http://localhost:1313/id/stage/" /><xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/stage/" />
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/en/stage/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/stage/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="id" href="http://localhost:1313/id/en/stage/" /><xhtml:link rel="alternate" hreflang="id" href="http://localhost:1313/id/stage/" /><xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/en/stage/" />
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/stage/" />
+  </url>
+</urlset>

@@ -1,0 +1,88 @@
+
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/id/author/</loc>
+    
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/author/" />
+    <xhtml:link rel="alternate" hreflang="id" href="http://localhost:1313/id/author/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/id/categories/</loc>
+    
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/categories/" />
+    <xhtml:link rel="alternate" hreflang="id" href="http://localhost:1313/id/categories/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/id/en/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/en/" />
+    <xhtml:link rel="alternate" hreflang="id" href="http://localhost:1313/id/en/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/id/en/stage/evergreen/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/en/stage/evergreen/" /><xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/stage/evergreen/" /><xhtml:link rel="alternate" hreflang="id" href="http://localhost:1313/id/stage/evergreen/" />
+    <xhtml:link rel="alternate" hreflang="id" href="http://localhost:1313/id/en/stage/evergreen/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/id/stage/evergreen/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/en/stage/evergreen/" /><xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/stage/evergreen/" /><xhtml:link rel="alternate" hreflang="id" href="http://localhost:1313/id/en/stage/evergreen/" />
+    <xhtml:link rel="alternate" hreflang="id" href="http://localhost:1313/id/stage/evergreen/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/id/en/stage/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="id" href="http://localhost:1313/id/stage/" /><xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/en/stage/" /><xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/stage/" />
+    <xhtml:link rel="alternate" hreflang="id" href="http://localhost:1313/id/en/stage/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/id/stage/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="id" href="http://localhost:1313/id/en/stage/" /><xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/en/stage/" /><xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/stage/" />
+    <xhtml:link rel="alternate" hreflang="id" href="http://localhost:1313/id/stage/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/id/en/stage/budding/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/en/stage/budding/" /><xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/stage/budding/" /><xhtml:link rel="alternate" hreflang="id" href="http://localhost:1313/id/stage/budding/" />
+    <xhtml:link rel="alternate" hreflang="id" href="http://localhost:1313/id/en/stage/budding/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/id/stage/budding/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/en/stage/budding/" /><xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/stage/budding/" /><xhtml:link rel="alternate" hreflang="id" href="http://localhost:1313/id/en/stage/budding/" />
+    <xhtml:link rel="alternate" hreflang="id" href="http://localhost:1313/id/stage/budding/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/id/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/" />
+    <xhtml:link rel="alternate" hreflang="id" href="http://localhost:1313/id/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/id/en/stage/seedling/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/en/stage/seedling/" /><xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/stage/seedling/" /><xhtml:link rel="alternate" hreflang="id" href="http://localhost:1313/id/stage/seedling/" />
+    <xhtml:link rel="alternate" hreflang="id" href="http://localhost:1313/id/en/stage/seedling/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/id/stage/seedling/</loc>
+    <lastmod>2026-05-25T02:22:10+09:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/en/stage/seedling/" /><xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/stage/seedling/" /><xhtml:link rel="alternate" hreflang="id" href="http://localhost:1313/id/en/stage/seedling/" />
+    <xhtml:link rel="alternate" hreflang="id" href="http://localhost:1313/id/stage/seedling/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/id/series/</loc>
+    
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/series/" />
+    <xhtml:link rel="alternate" hreflang="id" href="http://localhost:1313/id/series/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/id/tags/</loc>
+    
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/tags/" />
+    <xhtml:link rel="alternate" hreflang="id" href="http://localhost:1313/id/tags/" />
+  </url>
+</urlset>

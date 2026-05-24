@@ -1,0 +1,19 @@
+---
+title: 'Research'
+---
+
+I'm an M.S. candidate in Physics at Chungbuk National University. My research spans three areas:
+
+---
+
+## Axion Physics
+
+Investigating axion and axion-like particles as dark matter candidates, including the formation and dynamics of axion stars and boson stars.
+
+## Gravitational Waves
+
+Studying inspiral waveforms and tidal deformation of compact binary systems to better understand strong-gravity phenomena, and constraining axion parameters (axion mass \\(m_a\\), decay constant \\(f_a\\)) through gravitational wave signatures.
+
+## N-body Simulations
+
+Simulating the dynamical evolution of dense stellar clusters using Nbody6++GPU, with a focus on merger rates of compact objects and exotic objects such as axion stars.

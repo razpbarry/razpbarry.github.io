@@ -1,0 +1,40 @@
+
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/de/author/</loc>
+    
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/author/" /><xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/id/author/" /><xhtml:link rel="alternate" hreflang="ca-ES" href="http://localhost:1313/ca/author/" /><xhtml:link rel="alternate" hreflang="es-ES" href="http://localhost:1313/es/author/" /><xhtml:link rel="alternate" hreflang="es-MX" href="http://localhost:1313/es-mx/author/" /><xhtml:link rel="alternate" hreflang="fr" href="http://localhost:1313/fr/author/" /><xhtml:link rel="alternate" hreflang="hi-IN" href="http://localhost:1313/hi/author/" />
+    <xhtml:link rel="alternate" hreflang="de-DE" href="http://localhost:1313/de/author/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/de/categories/</loc>
+    
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/categories/" /><xhtml:link rel="alternate" hreflang="es-MX" href="http://localhost:1313/es-mx/categories/" /><xhtml:link rel="alternate" hreflang="fr" href="http://localhost:1313/fr/categories/" /><xhtml:link rel="alternate" hreflang="hi-IN" href="http://localhost:1313/hi/categories/" /><xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/id/categories/" /><xhtml:link rel="alternate" hreflang="ca-ES" href="http://localhost:1313/ca/categories/" /><xhtml:link rel="alternate" hreflang="es-ES" href="http://localhost:1313/es/categories/" />
+    <xhtml:link rel="alternate" hreflang="de-DE" href="http://localhost:1313/de/categories/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/de/</loc>
+    
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/" /><xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/id/" /><xhtml:link rel="alternate" hreflang="fr" href="http://localhost:1313/fr/" /><xhtml:link rel="alternate" hreflang="hi-IN" href="http://localhost:1313/hi/" /><xhtml:link rel="alternate" hreflang="ca-ES" href="http://localhost:1313/ca/" /><xhtml:link rel="alternate" hreflang="es-ES" href="http://localhost:1313/es/" /><xhtml:link rel="alternate" hreflang="es-MX" href="http://localhost:1313/es-mx/" />
+    <xhtml:link rel="alternate" hreflang="de-DE" href="http://localhost:1313/de/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/de/series/</loc>
+    
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="http://localhost:1313/hi/series/" /><xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/id/series/" /><xhtml:link rel="alternate" hreflang="ca-ES" href="http://localhost:1313/ca/series/" /><xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/series/" /><xhtml:link rel="alternate" hreflang="es-ES" href="http://localhost:1313/es/series/" /><xhtml:link rel="alternate" hreflang="es-MX" href="http://localhost:1313/es-mx/series/" /><xhtml:link rel="alternate" hreflang="fr" href="http://localhost:1313/fr/series/" />
+    <xhtml:link rel="alternate" hreflang="de-DE" href="http://localhost:1313/de/series/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/de/stage/</loc>
+    
+    <xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/id/stage/" /><xhtml:link rel="alternate" hreflang="es-ES" href="http://localhost:1313/es/stage/" /><xhtml:link rel="alternate" hreflang="es-MX" href="http://localhost:1313/es-mx/stage/" /><xhtml:link rel="alternate" hreflang="fr" href="http://localhost:1313/fr/stage/" /><xhtml:link rel="alternate" hreflang="hi-IN" href="http://localhost:1313/hi/stage/" /><xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/stage/" /><xhtml:link rel="alternate" hreflang="ca-ES" href="http://localhost:1313/ca/stage/" />
+    <xhtml:link rel="alternate" hreflang="de-DE" href="http://localhost:1313/de/stage/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/de/tags/</loc>
+    
+    <xhtml:link rel="alternate" hreflang="en-us" href="http://localhost:1313/tags/" /><xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/id/tags/" /><xhtml:link rel="alternate" hreflang="es-MX" href="http://localhost:1313/es-mx/tags/" /><xhtml:link rel="alternate" hreflang="fr" href="http://localhost:1313/fr/tags/" /><xhtml:link rel="alternate" hreflang="hi-IN" href="http://localhost:1313/hi/tags/" /><xhtml:link rel="alternate" hreflang="ca-ES" href="http://localhost:1313/ca/tags/" /><xhtml:link rel="alternate" hreflang="es-ES" href="http://localhost:1313/es/tags/" />
+    <xhtml:link rel="alternate" hreflang="de-DE" href="http://localhost:1313/de/tags/" />
+  </url>
+</urlset>
